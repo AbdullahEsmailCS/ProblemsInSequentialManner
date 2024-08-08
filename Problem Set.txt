@@ -1,0 +1,274 @@
+writea  program to print your name
+write a program to read and print your name
+write a program to read your age and print it
+write a program to read a char and print it
+write a program to read an array and print the items
+write a program to read person record and print its information such as ID, first name, last name, phone, gender, marital status, email,age
+writea  program to check if a user age is odd number or not
+write a program to add two numbers
+write a program to check if a number is positive or negative
+write a program to check if a person eligable to vote
+write a program to swap two numbers
+
+write a program to add three numbers
+write a program to add four numbers
+write a progaram to subtract two numbers
+write aprogram to multiply two numbers
+write a program to divide two numbers
+write a program to get the modulus of two numbers
+write a program to compute the service fee
+write a program to compute the commision percentage
+write a program to compute the discount
+write a program to compute all the math computation of circle, area, square,power, log, absulute value, ceiling, floor, truncate,
+write aprogram to validate a number between 1 and 100
+write  a program to convert seconds to minutes, hours and vice versa
+writea program to check if the battery level less than 20, then display an alert 
+write a program to check if the battery level is 0, then shout down the system
+write a program to divide the number into halves
+write a program to get the average of three marks
+write  a program to check if a student pass or fail the exam
+write a program to validate the age between 18 and 45
+----------------------------------------
+write a program to get the max of two numbers
+write a program to get the max of three numbers
+write a program to get the min of two numbers
+write a program to get the min of three numbers
+writea program to read numbers until age between
+write a program to print numbers from 1 to n
+writ ea program to print numbers from n to 1
+write aprogram to print the odd numbers
+write a program to print hte even  number
+write a program to print numbers that divisable by 2
+write  aprogram to compute the factorial
+write a progrma to compute the fibonacne sequence
+write a program to check if a number is prime or not
+write a program to sum the digits of a number
+write a program to 
+write a program to print the sum of odd numbers
+writ ea program to  print the sum of event number
+write a program to implement simple calculator
+write a program to comput ethe remainder of  a bill
+write a program to decrease the quantity of items in a stock
+write aprogram to increase the quantity of items in a stock
+write a program to compute the tax on a bill
+write a program to compute the total amount of a products
+write a program to set the description of a product
+write a program to compute the monthly loan interest
+write a program to compute complex loan interest
+write a program to compute the profit and loss 
+write a program to calculat the load amortization using this formula: Formula: Monthly Payment = [Principal × Rate × (1 + Rate)^Number of Payments] / [(1 + Rate)^Number of Payments - 1].
+
+Calculating the current balance of accounts after deposits, withdrawals, and fees.
+
+Converting amounts between different currencies based on current exchange rates.
+
+Determining various fees such as service charges, overdraft fees, and transaction fees.
+ Assessing a customer's eligibility for a loan based on credit scores, income, and other factors.
+
+write a program to withdrawal from an acccount
+write a program to deposit to an acocunt
+write a program to transfer from one account to another
+write a program to transfter between account holders
+write a program to authenticate a user
+write a program to sign up an account
+write a program to check if a user  hass read, write , execute permissions using bitwise operations
+
+
+write a program to check if a number is odd or even usin xor
+
+
+
+Find the maximum and minimum element in an array
+Find the second largest element in an array
+Reverse an array
+Check if an array is sorted
+Rotate an array by k elements
+Move all negative elements to one side of the array
+Find the union and intersection of two arrays
+Find the missing number in a given array
+Find the duplicate element in an array
+Find the majority element in an array
+Implement a circular queue using an array
+Implement a stack using an array
+Find the kth largest element in an array
+Find the leaders in an array
+Implement a sliding window maximum
+Find the subarray with the maximum sum
+Find the subarray with the maximum product
+Implement the two-sum problem
+Implement the three-sum problem
+Implement the maximum subarray problem
+Implement the container with most water problem
+Implement the merge intervals problem
+Implement the next permutation problem
+Implement the trapping rain water problem
+Implement the spiral matrix problem
+Implement the jump game problem
+Implement the merge sorted arrays problem
+Implement the search in rotated sorted array problem
+Implement the best time to buy and sell stock problem
+Implement the longest consecutive sequence problem
+
+
+
+---------------------------------------------------------------------------
+Print "Hello, World!" in C++
+Calculate the area of a rectangle
+Swap two numbers
+Find the largest of three numbers
+Check if a number is even or odd
+Find the factorial of a number
+Check if a number is prime
+Convert Celsius to Fahrenheit
+Find the nth Fibonacci number
+Check if a string is a palindrome
+Reverse a string
+Find the sum of digits in a number
+Print the multiplication table of a number
+Check if a year is a leap year
+Find the greatest common divisor of two numbers
+Find the least common multiple of two numbers
+Check if a number is Armstrong
+Find the sum of all elements in an array
+Find the maximum and minimum element in an array
+Implement a simple calculator
+Intermediate Level:
+
+Implement a singly linked list
+Implement a doubly linked list
+Implement a Circular linked list
+Implement a stack using an array
+Implement a queue using an array
+Implement a stack using linked list
+Implement a queue using linked list
+Implement a binary search tree
+Traverse a binary tree (preorder, inorder, postorder)
+Implement a hash table
+Implement a priority queue
+Implement a graph using adjacency list
+Perform breadth-first search (BFS) on a graph
+Perform depth-first search (DFS) on a graph
+Implement a sorting algorithm (e.g., bubble sort, insertion sort, merge sort, quicksort)
+Implement a searching algorithm (e.g., linear search, binary search)
+Implement a dynamic programming solution (e.g., Fibonacci sequence, knapsack problem)
+Implement a greedy algorithm (e.g., activity selection problem, Kruskal's algorithm)
+Implement a divide-and-conquer algorithm (e.g., merge sort, quick sort)
+Implement a backtracking algorithm (e.g., N-Queens problem, Sudoku solver)
+Implement a recursion-based solution (e.g., Tower of Hanoi, Fibonacci sequence)
+Implement a matrix multiplication algorithm
+Implement a string manipulation algorithm (e.g., string reversal, string palindrome)
+Implement a file I/O operation (e.g., read from a file, write to a file)
+Implement a class and demonstrate the use of inheritance, polymorphism, and encapsulation
+Implement an exception handling mechanism
+Implement a multithreaded program (e.g., producer-consumer problem, dining philosophers problem)
+Implement a memory management algorithm (e.g., dynamic memory allocation, memory leaks)
+Implement a server-client communication program using sockets
+Implement a simple web browser or web server
+Implement a simple database management system
+Implement a simulation program (e.g., digital clock, traffic light system)
+Implement a game (e.g., tic-tac-toe, chess, sudoku)
+Implement a image processing algorithm (e.g., grayscale conversion, edge detection)
+Implement a data compression algorithm (e.g., Huffman coding, LZW compression)
+Implement a cryptographic algorithm (e.g., Caesar cipher, RSA encryption)
+Implement a machine learning algorithm (e.g., linear regression, k-nearest neighbors)
+Implement a computer vision algorithm (e.g., object detection, image segmentation)
+Implement a natural language processing algorithm (e.g., sentiment analysis, text classification)
+Implement a computer graphics algorithm (e.g., line drawing, polygon filling)
+Implement a numerical analysis algorithm (e.g., root finding, numerical integration)
+Implement a optimization algorithm (e.g., gradient descent, simulated annealing)
+Implement a graph algorithm (e.g., Dijkstra's shortest path, Kruskal's minimum spanning tree)
+Implement a scheduling algorithm (e.g., CPU scheduling, job scheduling)
+Implement a network protocol (e.g., TCP/IP, HTTP)
+Implement a database management system (e.g., SQL queries, index management)
+Implement a distributed system (e.g., client-server architecture, message queues)
+Implement a real-time system (e.g., event-driven programming, interrupt handling)
+Implement a computer architecture simulation (e.g., CPU pipeline, memory management)
+Implement a compiler or interpreter (e.g., lexical analysis, parsing, code generation)
+Implement a game engine (e.g., rendering, collision detection, physics simulation)
+Implement a machine learning model (e.g., neural networks, decision trees)
+Implement a computer vision pipeline (e.g., image preprocessing, feature extraction, classification)
+Implement a natural language processing system (e.g., text preprocessing, language modeling, text generation)
+Implement a computer graphics rendering algorithm (e.g., ray tracing, rasterization)
+Implement a numerical analysis method (e.g., finite difference, finite element)
+Implement a optimization technique (e.g., linear programming, quadratic programming)
+Implement a graph algorithm (e.g., Kruskal's algorithm, Prim's algorithm)
+Implement a scheduling algorithm (e.g., round-robin, priority-based scheduling)
+Implement a network protocol (e.g., UDP, DHCP)
+Implement a database management system (e.g., transaction management, concurrency control)
+Implement a distributed system (e.g., consensus algorithms, load balancing)
+Implement a real-time system (e.g., task scheduling, resource management)
+Implement a computer architecture simulation (e.g., cache memory, branch prediction)
+Implement a compiler or interpreter (e.g., type checking, code optimization)
+Implement a game engine (e.g., animation, audio processing)
+Implement a machine learning model (e.g., convolutional neural networks, recurrent neural networks)
+Implement a computer vision pipeline (e.g., object tracking, image segmentation)
+Implement a natural language processing system (e.g., machine translation, dialogue systems)
+Implement a computer graphics rendering algorithm (e.g., global illumination, volume rendering)
+Implement a numerical analysis method (e.g., Monte Carlo simulation, finite difference method)
+Implement a optimization technique (e.g., genetic algorithms, simulated annealing)
+Implement a graph algorithm (e.g., topological sorting, strongly connected components)
+Implement a scheduling algorithm (e.g., earliest deadline first, multi-level feedback queue)
+Implement a network protocol (e.g., BGP, OSPF)
+Implement a database management system (e.g., query optimization, indexing techniques)
+Implement a distributed system (e.g., replication, fault tolerance)
+Implement a real-time system (e.g., rate monotonic scheduling, deadline-driven scheduling)
+Implement a computer architecture simulation (e.g., pipelining, superscalar execution)
+Implement a compiler or interpreter (e.g., data flow analysis, code generation)
+Implement a game engine (e.g., pathfinding, networking)
+Implement a machine learning model (e.g., reinforcement learning, generative adversarial networks)
+Implement a computer vision pipeline (e.g., image registration, 3D reconstruction)
+---------------------------------
+
+
+
+Length/Length(): Returns the length of the string.
+Concatenation/+, append(): Combines two or more strings into a single string.
+Substring/Substr(): Extracts a part of a string.
+Index Of/Find(): Searches the string for a specified value and returns the position of the first occurrence.
+Last Index Of/rfind(): Searches the string for a specified value and returns the position of the last occurrence.
+Replace(): Replaces specified characters in a string.
+Split(): Splits a string into an array of substrings.
+Join(): Joins the elements of an array into a string.
+Trim(): Removes whitespace from both ends of a string.
+ToUpper(): Converts a string to uppercase.
+ToLower(): Converts a string to lowercase.
+Reverse(): Reverses the order of the characters in a string.
+Compare(): Compares two strings and returns an integer value indicating their relative order.
+StartsWith(): Determines whether the beginning of a string instance matches a specified string.
+EndsWith(): Determines whether the end of a string instance matches a specified string.
+Contains(): Determines whether a string contains a specified substring.
+Insert(): Inserts a string into another string at the specified index position.
+Remove(): Removes the characters in a specified range from a string.
+PadLeft(): Left-aligns the characters in a string by padding them on the left with a specified character.
+PadRight(): Right-aligns the characters in a string by padding them on the right with a specified character.
+Format(): Converts the format item in a specified string into the string representation of a corresponding object.
+Intern(): Retrieves the system-defined interned string that has the same contents as the specified string.
+IsNullOrEmpty(): Indicates whether a specified string is null or an empty string.
+IsNullOrWhiteSpace(): Indicates whether a specified string is null, empty, or consists only of white-space characters.
+Equals(): Compares two strings for equality.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

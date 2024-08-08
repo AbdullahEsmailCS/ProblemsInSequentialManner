@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OctoCoder\\Abdullah Ali\\GithubProfile\\ProblemsInSequentialManner\\ReadNameAndPrintIt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E7896F-5182-4986-A549-F632693E39A2}|ReadNameAndPrintIt.vcxproj|D:\\OctoCoder\\Abdullah Ali\\GithubProfile\\ProblemsInSequentialManner\\ReadNameAndPrintIt\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1E7896F-5182-4986-A549-F632693E39A2}|ReadNameAndPrintIt.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\OctoCoder\\Abdullah Ali\\GithubProfile\\ProblemsInSequentialManner\\ReadNameAndPrintIt\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\OctoCoder\\Abdullah Ali\\GithubProfile\\ProblemsInSequentialManner\\ReadNameAndPrintIt\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T18:17:22.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
